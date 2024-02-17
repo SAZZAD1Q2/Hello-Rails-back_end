@@ -4,7 +4,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-    - [Front End](#front-end)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -18,9 +17,9 @@
 - [📝 License](#license)
 
 
-# 📖 Hello Rails Backend <a name="about-project"></a>
+# 📖 Hello-Rails-back_end <a name="about-project"></a>
 
-**Hello Rails Backend** is a practice project for connecting rails back-end and react front-end in two separate apps
+**Hello-Rails-back_end** is a practice project for connecting rails back-end and react front-end in a single app
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -57,13 +56,6 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-### Front End <a name="front-end"></a>
-
-- To see the front end of this project click [here](https://github.com/hamidazim321/hello-rails-frontend)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -82,19 +74,17 @@ Install Ruby and Rails on your local machine
 ### Install
 
 Install this project with:
-
-```git clone git@github.com:hamidazim321/hello-rails-backend.git```
+https://github.com/SAZZAD1Q2/Hello-Rails-back_end.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 👤 Author <a name="authors"></a>
 
-🧔 **Hamid**
+🧔 **Sazzad**
 
-- GitHub: [@hamidazim321](https://github.com/hamidazim321)
-- Twitter: [@hamidazim321](https://twitter.com/hamidazim321)
-- LinkedIn: [hamid-azim](https://www.linkedin.com/in/hamid-azim)
+- GitHub: [SAZZAD1Q2](https://github.com/SAZZAD1Q2/Hello-Rails-back_end.git)
+- LinkedIn: [SAZZAD](https://www.linkedin.com/in/sazzad3y/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,7 +98,7 @@ Install this project with:
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome!
+Contributions requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
@@ -123,7 +113,7 @@ If you like this project follow me on the social accounts above to be notified o
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for the opportunity
+I like to thank Microverse for this opportunity
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
