@@ -4,6 +4,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+    - [Front End](#front-end)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -17,9 +18,9 @@
 - [📝 License](#license)
 
 
-# 📖 Hello-Rails-back_end <a name="about-project"></a>
+# 📖 Hello Rails Back end <a name="about-project"></a>
 
-**Hello-Rails-back_end** is a practice project for connecting rails back-end and react front-end in a single app
+**Hello Rails Back end** is a practice project for connecting rails back-end and react front-end in two separate apps
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -56,6 +57,13 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+### Front End <a name="front-end"></a>
+
+- To see the front end of this project click [here](https://github.com/SAZZAD1Q2/Hello-Rails-front_end.git)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -84,7 +92,7 @@ https://github.com/SAZZAD1Q2/Hello-Rails-back_end.git
 🧔 **Sazzad**
 
 - GitHub: [SAZZAD1Q2](https://github.com/SAZZAD1Q2/Hello-Rails-back_end.git)
-- LinkedIn: [SAZZAD](https://www.linkedin.com/in/sazzad3y/)
+- LinkedIn: [sazzad](https://www.linkedin.com/in/sazzad3y/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -98,7 +106,7 @@ https://github.com/SAZZAD1Q2/Hello-Rails-back_end.git
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions requests are welcome!
+Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
@@ -113,7 +121,7 @@ If you like this project follow me on the social accounts above to be notified o
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I like to thank Microverse for this opportunity
+I would like to thank Microverse for the opportunity
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
